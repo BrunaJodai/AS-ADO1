@@ -8,7 +8,6 @@ public class UserPreferences {
 
     public static String nome;
     public static String senha;
-    //timestamp????
     public static String dataUltimaEntrada;
     public static String perfil;
 
